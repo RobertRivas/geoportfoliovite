@@ -1,5 +1,5 @@
 
-# 🚀 Vite + React + ArcGIS API for React Project
+# 🚀 Vite + React + ArcGIS Maps SDK for JavaScript
 
 Welcome to the **Vite React ArcGIS** project! This is a fun web application that integrates the **ArcGIS API for React**, the fast **Vite** build tool, and **React** to create interactive maps and spatial applications. Whether you’re visualizing geospatial data or building an awesome mapping app, this project has everything you need!
 
@@ -8,10 +8,10 @@ Welcome to the **Vite React ArcGIS** project! This is a fun web application that
 This project combines three powerful tools:
 - **Vite**: A super-fast build tool for building your React apps like a rocket 🚀.
 - **React**: A popular JavaScript library for building user interfaces ⚛️.
-- **ArcGIS API for React**: A complete suite for creating powerful, interactive maps in React applications 🗺️.
+- **ArcGIS Maps SDK for JavaScript**: A complete suite for creating powerful, interactive maps in React applications 🗺️.
 
 ### ⚡ Key Features:
-- **Interactive maps** powered by **ArcGIS API for React** 🗺️
+- **Interactive maps** powered by **ArcGIS Maps SDK for JavaScript** 🗺️
 - Fast development and hot-reloading with **Vite** ⚡
 - **React** components that make UI development a breeze 🔄
 - Use of **ArcGIS** for mapping layers, markers, popups, and more 🌍
@@ -58,7 +58,7 @@ Your app should now be available at `http://localhost:3000`! 🚀
 
 ## 🧭 Features in the Map
 
-This app utilizes the **ArcGIS API for React** to enable the following features:
+This app utilizes the **ArcGIS Maps SDK for JavaScript** to enable the following features:
 - **Interactive maps** with zoom and panning 🔍
 - **Custom map markers** and layers to display data 📍
 - **Popups** to display detailed map data 🗣️
@@ -81,7 +81,7 @@ Want to contribute? Awesome! Here's how you can help:
 
 - **Vite**: A lightning-fast tool to develop modern React apps.
 - **React**: Build interactive UIs with components.
-- **ArcGIS API for React**: An API for creating and interacting with maps in React.
+- **ArcGIS Maps SDK for JavaScript**: An API for creating and interacting with maps in React.
 
 ---
 
@@ -92,6 +92,3 @@ Want to contribute? Awesome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
