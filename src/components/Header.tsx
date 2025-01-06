@@ -5,7 +5,7 @@ function Header() {
 
         <header className="header">
 
-            <img src="src/assets/geospatiallogo.webp" alt="Robert Rivas GeoSpatial Developer" className="logo"/>
+            <img src="geospatiallogo.webp" alt="Robert Rivas GeoSpatial Developer" className="logo"/>
 
             <nav>
 
